@@ -11,6 +11,4 @@
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bizancio3&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Bizancio3's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizancio3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
