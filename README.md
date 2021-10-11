@@ -1,5 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
-**welcome to Reliable AgTech 4.0 data lab**
+### Hi everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, welcome to Reliable AgTech 4.0 data lab
 
 ---
 
@@ -10,6 +9,6 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain-wordmark.svg" alt="Erlang Logo" width="50" height="50"/> 
 
-### &#x1f4c8; My GitHub Stats
+### &#x1f4c8;
 
 [![bizancio3's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizancio3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
