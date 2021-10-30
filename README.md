@@ -1,7 +1,5 @@
-### Hi, everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-
-**Welcome to Reliable AgTech 4.0 data lab. \
-Applied ML for edge analytics**
+### Welcome to Reliable AgTech 4.0 data lab. 
+**Applied ML for edge analytics**
 
 ---
 
