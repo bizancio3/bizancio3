@@ -1,4 +1,5 @@
-### Welcome to Reliable AgTech 4.0 data lab. Applied ML & edge analytics
+### Welcome to Reliable AgTech 4.0 data lab. 
+**Applied ML & edge analytics**
 
 ---
 
