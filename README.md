@@ -4,7 +4,7 @@
 ---
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy Logo" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>  
 
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Apache Spark Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="Kafka" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="Mongo DB" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/> <img src="https://mqtt.org/assets/downloads/mqtt-ver-neg.png" alt="MQTT Logo" width="50" height="50"/>
 
