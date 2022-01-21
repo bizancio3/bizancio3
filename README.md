@@ -1,4 +1,4 @@
-### Reliable AgTech 4.0 data lab for edge-AI. 
+## r3 Open AgTech data lab for edge-AI. 
 **Technology & local ecosystems**
 
 ---
