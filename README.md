@@ -1,5 +1,5 @@
-## r3 Open AgTech data lab for edge-AI. 
-**Technology & local ecosystems**
+# r3 Open AgTech data lab for edge-AI. 
+**Digital ecosystems for local innovation**
 
 ---
 
