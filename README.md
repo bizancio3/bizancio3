@@ -1,5 +1,5 @@
 # r3 Open AgTech data lab for edge-AI. 
-**Digital ecosystems for local development**
+**Digital ecosystems for local communities**
 
 ---
 
