@@ -1,4 +1,4 @@
-# r3 Open AgTech data lab for edge-AI. 
+# r3 data lab for edge-AI. 
 **4.0 ecosystems for local communities**
 
 ---
