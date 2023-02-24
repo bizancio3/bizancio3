@@ -1,4 +1,4 @@
-# Open R3 data lab for edge-AI. 
+# Open R3 datalab for edge-AI. 
 **Co-creating 4.0 ecosystems for local communities**
 
 ---
