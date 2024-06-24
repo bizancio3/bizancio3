@@ -1,5 +1,5 @@
 # Open R3 datalab. ML Systems for Antifragility
-**Co-creating 4.0 solutions for local communities**
+**Co-creating 4.0 solutions for exponential learning**
 
 ---
 
