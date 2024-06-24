@@ -1,4 +1,4 @@
-# Open R3 datalab for edge-AI. 
+# Open R3 datalab. ML Systems for Antifragility
 **Co-creating 4.0 solutions for local communities**
 
 ---
